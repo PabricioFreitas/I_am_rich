@@ -1,4 +1,4 @@
-# eu_sou_rico
+# I am Rich
 
 Projeto desenvolvido no curso #polimorfismocursoflutter com algumas alterações.
 
